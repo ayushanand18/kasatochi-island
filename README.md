@@ -11,3 +11,7 @@ https://www.gbif.org/occurrence/map?has_coordinate=true&has_geospatial_issue=fal
 
 ## Wikipedia
 https://en.wikipedia.org/wiki/Kasatochi_Island
+
+## Data Sources
++ Soil Moisture: https://apdrc.soest.hawaii.edu/erddap/info/hawaii_soest_e6a8_14ed_11ca/index.html
++ 
