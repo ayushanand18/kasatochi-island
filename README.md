@@ -12,6 +12,10 @@ https://www.gbif.org/occurrence/map?has_coordinate=true&has_geospatial_issue=fal
 ## Wikipedia
 https://en.wikipedia.org/wiki/Kasatochi_Island
 
-## Data Sources
+## Data Sources (all 8-day)
 + MODIS Part. Inorg. Carbon https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMPIC8day_R2022SQ.csv?pic%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
 + MODIS Part. Org. Carbon https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMPOC8day_R2022SQ.csv?poc%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ SST https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1sstd8dayR20190SQ.csv?sstMasked%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ Chlorophyll-a https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1chla8day_R202SQ.csv?chlor_a%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ Diffuse Attenuation https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1kd4908day_R2022SQ.csv?Kd_490%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ 
