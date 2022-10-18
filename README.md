@@ -16,4 +16,6 @@ https://en.wikipedia.org/wiki/Kasatochi_Island
 + Soil Moisture: https://apdrc.soest.hawaii.edu/erddap/info/hawaii_soest_e6a8_14ed_11ca/index.html
 + pCO2, TCO2, CaCO3, Alkanility (ocean): https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.nodc%3A0164568/html
 + Almost all climatic parameters, incl. particuate carbon: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.nodc%3A0001869/html
-+ 
+
++ MODIS Part. Inorg. Carbon https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMPIC8day_R2022SQ.csv?pic%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ MODIS Part. Org. Carbon https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMPOC8day_R2022SQ.csv?poc%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
