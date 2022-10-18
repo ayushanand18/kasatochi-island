@@ -18,4 +18,7 @@ https://en.wikipedia.org/wiki/Kasatochi_Island
 + SST https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1sstd8dayR20190SQ.csv?sstMasked%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
 + Chlorophyll-a https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1chla8day_R202SQ.csv?chlor_a%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
 + Diffuse Attenuation https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1kd4908day_R2022SQ.csv?Kd_490%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
-+ 
++ Primary Productivity https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1pp8day.csv?productivity%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D,nobs%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ Photosynthetically Available Radiation https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1par08day_R2022SQ.csv?par%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ Fluorescence Line Height https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMH1cflh8day.csv?cflh%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
++ Remote Sensing Reflectance at 667 nm https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdMTr6678day_LonPM180.csv?r667%5B(2004-02-22T00:00:00Z):1:(2012-02-22T00:00:00Z)%5D%5B(0.0):1:(0.0)%5D%5B(52.35416):1:(52.02083)%5D%5B(-175.7708):1:(-175.2708)%5D
